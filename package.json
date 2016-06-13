@@ -1,0 +1,19 @@
+{
+  "name": "loopback-connector-virtual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:edvisor-io/loopback-connector-virtual.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edvisor.io",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "loopback-connector": "^2.3.0"
+  }
+}
